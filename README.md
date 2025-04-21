@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Oshin Dutta !
 Ph.D. Scholar in AI at IIT Delhi • Researcher in Efficient AI • Enthusiast in LLMs, NAS, and Model Compression
 
-[📄 Resume](#) • [🌐 Website](#) • [📫 Email](mailto:your@email.com)
+[🌐 Website](https://oshindutta.github.io/) • [📫 Email](mailto:oshin.dutta@ee.iitd.ac.in)
 
 ---
 
@@ -9,7 +9,7 @@ Ph.D. Scholar in AI at IIT Delhi • Researcher in Efficient AI • Enthusiast i
 
 **Ph.D. Scholar, IIT Delhi**  
 _Working on Efficient AI & Accelerating LLMs_  
-Collaborating with [Dr. Sumeet Agarwal](#) and [Cadence India](#)
+Collaborated with [Samsung Research](#) and [Cadence India](#)
 
 - 🧠 **VTrans** – 10× speed-up for LLM fine-tuning + 50% compression
 - 🚀 **TVA-prune** – 60% GPU inference speed-up for LLaMA/Mistral

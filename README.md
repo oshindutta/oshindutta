@@ -1,30 +1,56 @@
-## Hi there 👋
-# 👋 Hi, I'm Your Name
-
-A one-liner about who you are or what you do.
+# 👋 Hi, I'm Oshin Dutta !
+Ph.D. Scholar in AI at IIT Delhi • Researcher in Efficient AI • Enthusiast in LLMs, NAS, and Model Compression
 
 [📄 Resume](#) • [🌐 Website](#) • [📫 Email](mailto:your@email.com)
 
 ---
 
-## 🚀 Projects
+## 🔬 Current Role
 
-- [**Project Name**](https://github.com/yourname/project) – one-line description
-- [**Another Project**](https://github.com/yourname/project2) – one-liner
+**Ph.D. Scholar, IIT Delhi**  
+_Working on Efficient AI & Accelerating LLMs_  
+Collaborating with [Dr. Sumeet Agarwal](#) and [Cadence India](#)
 
----
-
-## 🌱 About Me
-
-I'm currently working on XYZ  
-I'm learning ABC  
-Fun fact: I love ☕ / 🎮 / 🏔️
+- 🧠 **VTrans** – 10× speed-up for LLM fine-tuning + 50% compression
+- 🚀 **TVA-prune** – 60% GPU inference speed-up for LLaMA/Mistral
+- 🤖 **DCA-NAS** – 5× faster hardware-aware NAS on distributed GPUs
 
 ---
 
-## 📫 Find Me
+## 🧑‍🔬 Past Experience
 
-[LinkedIn](https://linkedin.com/in/yourhandle) • [Twitter](https://twitter.com/yourhandle) • [GitHub](https://github.com/yourhandle)
+**Student Researcher, IIT Dhanbad**  
+- Worked on tempo and rhythm extraction in polyphonic music using ML  
+- Published findings in IEEE conference  
+
+**Intern, Aerospace Dept., IISc Bangalore**  
+- Designed algorithms for fuel-efficient lunar landings  
+- Benchmarked efficiency on TMS320C6748 DSP  
+
+---
+
+## 🎓 Education
+
+- 🎓 **Ph.D. in Efficient AI**, IIT Delhi (2019–2025)
+- 🎓 **M.Tech.**, IIT Dhanbad – Electronics & Communication (2016–2018)
+- 🎓 **B.E.**, VTU – Electronics & Communication (2011–2015)
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: Python, C, Java, MATLAB  
+- **Frameworks**: PyTorch, TensorFlow, OpenCV  
+- **AI**: CNNs, RNNs, GANs, LLMs, ViTs, Multimodal, NAS  
+- **Research Interests**: Efficient AI, Model Compression, Pruning, Quantization, NAS  
+- **Other**: LoRA, Few-shot Learning, Post-Training Quant, FPGA-based Deployment
+
+---
+
+## 📫 Connect with Me
+
+[LinkedIn](https://linkedin.com/in/oshindutta) • [Twitter](https://x.com/dutta_oshin) • [GitHub](https://github.com/oshindutta)
+
 
 <!--
 **oshindutta/oshindutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

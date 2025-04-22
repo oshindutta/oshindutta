@@ -43,7 +43,7 @@ Collaborated with [Samsung Research](#) and [Cadence India](#)
 - **Frameworks**: PyTorch, TensorFlow, OpenCV  
 - **AI**: CNNs, RNNs, GANs, LLMs, ViTs, Multimodal, NAS  
 - **Research Interests**: Efficient AI, Model Compression, Pruning, Quantization, NAS  
-- **Other**: LoRA, Few-shot Learning, Post-Training Quant, FPGA-based Deployment
+- **Other**: LoRA, Few-shot Learning, Post-Training Quantization, Deployment
 
 ---
 

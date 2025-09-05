@@ -29,14 +29,6 @@ Collaborated with [Samsung Research](#) and [Cadence India](#)
 
 ---
 
-## 🎓 Education
-
-- 🎓 **Ph.D. in Efficient AI**, IIT Delhi (2019–2025)
-- 🎓 **M.Tech.**, IIT Dhanbad – Electronics & Communication (2016–2018)
-- 🎓 **B.E.**, VTU – Electronics & Communication (2011–2015)
-
----
-
 ## 🛠️ Skills
 
 - **Languages**: Python, C, Java, MATLAB  
